@@ -1,0 +1,4 @@
+Processed: data.txt
+Records: 1000
+Average Age: 46.328
+Favorite Language: C++
